@@ -3,3 +3,4 @@ uvicorn
 dotenv
 langchain
 openai
+gunicorn
