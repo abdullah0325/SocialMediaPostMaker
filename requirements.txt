@@ -4,3 +4,4 @@ dotenv
 langchain
 openai
 gunicorn
+langchain_openai
